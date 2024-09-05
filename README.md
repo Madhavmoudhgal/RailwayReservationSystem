@@ -11,6 +11,11 @@ Admin Panel: Admin can manage trains, view bookings, and add new trains to the s
 
 ![WhatsApp Image 2024-09-05 at 22 00 36_24ac031c](https://github.com/user-attachments/assets/e81f238a-c9c7-4b5c-be28-c6bdedb87590)
 
+![WhatsApp Image 2024-09-05 at 22 00 36_9e13577b](https://github.com/user-attachments/assets/a366fa50-97b4-417f-ba1a-9552d79c8d40)
+
+![WhatsApp Image 2024-09-05 at 22 00 37_3745e332](https://github.com/user-attachments/assets/3b2413a7-598b-4128-8825-41ba5d64e621)
+![WhatsApp Image 2024-09-05 at 22 00 37_4bd25681](https://github.com/user-attachments/assets/b15296bc-33a3-46e1-bc9d-730ec0f5e7fb)
+
 
 ## Technologies Used
 IDE: NetBeans
