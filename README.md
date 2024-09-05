@@ -7,6 +7,11 @@ Search Trains: Users can search for trains based on source, destination, and dat
 View Train Schedule: Users can view the schedule of a specific train.
 Admin Panel: Admin can manage trains, view bookings, and add new trains to the system.
 
+
+
+![WhatsApp Image 2024-09-05 at 22 00 36_24ac031c](https://github.com/user-attachments/assets/e81f238a-c9c7-4b5c-be28-c6bdedb87590)
+
+
 ## Technologies Used
 IDE: NetBeans
 Programming Language: Java
@@ -17,3 +22,5 @@ Import the database schema from database.sql to your MySQL database.
 Open the project in NetBeans IDE.
 Configure the database connection in the Java code.
 Run the application.
+
+
